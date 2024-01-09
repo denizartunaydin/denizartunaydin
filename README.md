@@ -3,7 +3,15 @@
 
 ### Hi there 👋
 
-In 2011, I started to study at the database programming department in Bursa and got acquainted with the software. I am a software developer who loves to research and learn and is passionate about games and technology. In 2015, I started to study at Uludag University Computer Programming Department. During my education at Uludağ University, I worked as an assistant in 2 different companies and universities for a certain period of time. As a result of working in different fields, I went to Mersin University Business Information Management department in 2017 in order to improve myself and create versatile software. Here, I tried to improve myself by taking different courses from business management to product marketing. With these idioms, I continued to develop software to make people's lives easier. Currently, I continue to work by developing mobile and web software so that people can organize and manage their daily lives more easily.
+In 2011, I began my journey in the field of database programming in Bursa, where I got acquainted with the world of software development. Driven by a passion for learning, a fondness for games and technology, I embarked on the path of becoming a dedicated software developer.
+
+In 2015, I transitioned to Uludağ University to study Computer Programming. During my university years, I not only attended classes but also worked as an assistant in two different companies and university departments. This allowed me to accumulate both academic knowledge and practical experience, emphasizing the significance of teamwork and a well-rounded skill set.
+
+My varied experiences across different sectors have significantly shaped my career trajectory. In 2017, I pursued studies in Business Information Management at Mersin University. Here, I took courses ranging from business management to product marketing and communication, expanding my knowledge and gaining a broader perspective on software development processes.
+
+Drawing inspiration from these courses and experiences, I remained steadfast in my pursuit of creating software that simplifies people’s daily lives. At present, I continue my journey by developing mobile and web applications that facilitate better organization and management of tasks and activities.
+
+Throughout this passionate journey in the realm of software, I am confident that I will continue to innovate and contribute value to the software world, generating numerous groundbreaking projects in the future.
 
 ### Conect with me:
 <a href="https://www.linkedin.com/in/denizartunaydin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="denizartunaydin"/></a> 
