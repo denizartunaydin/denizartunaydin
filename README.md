@@ -1,7 +1,6 @@
+# Hi, I'm Artun 👋
+
 ![Frame 19 (1)](https://user-images.githubusercontent.com/10851249/211202876-657272f8-0b09-4f2e-abba-9ff3cf42173e.jpg)
-
-
-### Hi there 👋
 
 In 2011, I began my journey in the field of database programming in Bursa, where I got acquainted with the world of software development. Driven by a passion for learning, a fondness for games and technology, I embarked on the path of becoming a dedicated software developer.
 
@@ -13,6 +12,16 @@ Drawing inspiration from these courses and experiences, I remained steadfast in 
 
 Throughout this passionate journey in the realm of software, I am confident that I will continue to innovate and contribute value to the software world, generating numerous groundbreaking projects in the future.
 
-### Conect with me:
-<a href="https://www.linkedin.com/in/denizartunaydin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="denizartunaydin"/></a> 
-<a href="mailto:denizartunaydin@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="denizartunaydin"/></a> 
+## 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+## 🌐 Socials
+
+<a href="https://www.linkedin.com/in/denizartunaydin/" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="denizartunaydin"/></a>
+<a href="https://medium.com/@denizartunaydin" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="denizartunaydin"/></a>
+<a href="mailto:denizartunaydin@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="denizartunaydin"/></a>
